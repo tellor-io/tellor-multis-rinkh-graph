@@ -1,1 +1,1 @@
-# tellor-multis-hosted-graph-rinkeby
+# tellor-multis-rinkh-graph
